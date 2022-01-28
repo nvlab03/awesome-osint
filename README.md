@@ -2191,6 +2191,7 @@ Thanks to our main contributors
 * [The Harvester](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 * [Intrigue Core](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
 * [Maltego](https://www.maltego.com/) - Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
+* [NexVision] (https://www.nexvisionlab.com) - NexVision is an advanced A.I.-powered OSINT solution that provides real time intelligence from the Whole Web (Clear Web, Dark Web and Social Media). Used for background checks, due-diligence, customer on-boarding compliance (KYC/AML/CFT), gathering organisation intelligence, third party intelligence, cyber threat intelligence, or even to research cryptocurrency addresses.
 * [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 * [Orbit](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 * [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
